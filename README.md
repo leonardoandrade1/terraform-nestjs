@@ -4,7 +4,7 @@ Personal git repo storing exercises that expose AWS resources using Terraform.
 
 ## Application
 
-The application used to be exposed is a brand new NestJS application. For more details, [see Nestjs docs](https://docs.nestjs.com/)
+The application that used to be exposed is a brand new NestJS application. For more details, [see Nestjs docs](https://docs.nestjs.com/)
 
 ## Goals
 
