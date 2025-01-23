@@ -1,6 +1,6 @@
 # Terraform AWS + NestJS
 
-Personal git repo storing exercises exposing AWS resources using Terraform.
+Personal git repo storing exercises taht expose AWS resources using Terraform.
 
 ## Application
 
